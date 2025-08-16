@@ -13,7 +13,7 @@ export default function Navbar() {
           <NavLink to="/events">Events</NavLink>
           <NavLink to="/clubs">Clubs</NavLink>
           <NavLink to="/resources">Resources</NavLink>
-          <NavLink to="/forum">Forum</NavLink>
+          <NavLink to="/forum">Groupchats</NavLink>
           <NavLink to="/about">About</NavLink>
           <NavLink to="/contact">Contact</NavLink>
         </nav>
